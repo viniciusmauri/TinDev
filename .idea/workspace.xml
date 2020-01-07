@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fac21089-1c17-41af-9b1d-5cdedc64e34d" name="Default Changelist" comment="" />
+    <list default="true" id="fac21089-1c17-41af-9b1d-5cdedc64e34d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/src/controllers/DislikeController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/controllers/LikeController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/controllers/DevController.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/controllers/DevController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/models/Dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/models/Dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,7 +42,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="jsx.switch.disabled" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -46,11 +72,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578399238933</updated>
-      <workItem from="1578399240763" duration="244000" />
+      <workItem from="1578399240763" duration="7011000" />
+      <workItem from="1578407131088" duration="115000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="119" width="524" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578404565020">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="416" y="119" width="524" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.741@0.0.1366.741" timestamp="1578404565020" />
+    <state x="166" y="0" width="1024" height="736" key="SettingsEditor" timestamp="1578407110924">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="166" y="0" width="1024" height="736" key="SettingsEditor/0.0.1366.741@0.0.1366.741" timestamp="1578407110924" />
+    <state x="346" y="62" width="672" height="678" key="search.everywhere.popup" timestamp="1578407010662">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="346" y="62" width="672" height="678" key="search.everywhere.popup/0.0.1366.741@0.0.1366.741" timestamp="1578407010662" />
   </component>
 </project>
