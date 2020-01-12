@@ -6,7 +6,7 @@ Projeto em NodeJS, React e React Native, o intuíto é criar uma aplicação ond
 
 Para rodar este projeto em seu localhost, você deverá ter uma IDE a sua escolha, este deverá ter suporte para as tecnologias NodeJS, React e React Native.
 
-#Prerequisites
+# Prerequisites
 
 É necessário ter um banco de dados MONGO, para poder armazenar os dados gerados pelo sistema.
 
